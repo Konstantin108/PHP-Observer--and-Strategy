@@ -14,7 +14,7 @@ array_push($goods,new Good('Гольфы', '60'));
 array_push($goods,new Good('Носки шерсятные', '49'));
 
 $goods2 = [];
-$client2 = '8(906)047-88-88';
+$client2 = '8(906)047-88-20';
 
 array_push($goods2,new Good('Носки спортивные', '122'));
 array_push($goods2,new Good('Гетры', '100'));
